@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+* {
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-image: url(https://i.redd.it/g8qohwjos2b81.jpg);
+}
+
+a:hover {
+    background-color: grey;
+    color: red;
+}
+
+a.stem:hover {
+    font-size: 20px;
+}
